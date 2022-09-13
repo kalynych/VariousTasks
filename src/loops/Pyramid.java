@@ -1,5 +1,7 @@
 package loops;
 
+import java.util.Arrays;
+
 public class Pyramid {
 
     public static void main(String[] args) {
@@ -22,6 +24,5 @@ public class Pyramid {
 
             System.out.println();
         }
-
     }
 }
